@@ -19,6 +19,8 @@
 
 ![Additional DART examples](docs/demo2.png)
 
+> `n` denotes the number of refinement steps. Each step zooms in on the predicted region, re-runs grounding, and progressively improves accuracy. The prediction converges toward the correct target as `n` increases.
+
 ---
 
 ## Results
